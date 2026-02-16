@@ -1,3 +1,0 @@
-FirstName,LastName,Phonenumber
-Shuki,Amar,0507957551
-Test,Test1,046791848
